@@ -1,2 +1,3 @@
 # Meu-primeiro-repositorio
-Aprender a mexer no git hub
+Criado para aprender a mexer no git hub e 
+para u, desafio de projeto.
